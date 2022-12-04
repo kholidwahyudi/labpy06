@@ -2,7 +2,7 @@
 # NAMA : KHOLID WAHYUDI
 
 ## Latihan 1
-![img 1](screenshout/exm.png)
+![img 1](screenshout6/exm.png)
 ## kode sumber
 ```Python
 import math
@@ -29,7 +29,7 @@ print(d("TUGAS"))
 ```
 
 ## Output
-![img 2](screenshout/h(l).png)
+![img 2](screenshout6/h(l).png)
 ## Tugas praktikum
 ## PROGRAM
 <p>		Dibawah ini adalah program sederhana untuk membuat daftar Nilai Mahasiswa dengan menggunakan <b>Kamus</b>, dengan Menu <i>Tambah(Add), Ubah(Edit), Hapus(Delete), Cari(Search), dan lihat(List)</i>
